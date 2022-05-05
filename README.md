@@ -2,7 +2,7 @@
 
 ## access
 ```
-http://localhost:8080
+http://localhost:8080/login
 ```
 - Create account with email and password.
 - Login and create products and taxes.
