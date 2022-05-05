@@ -8,7 +8,7 @@ http://localhost:8080/login
 - Login and create products and taxes.
 - Use calculator to calculate ICMS.
 
-## Instalation
+## Installation
 ```
 $ chmod + requirements.sh
 $ sudo ./requirements.sh
@@ -20,7 +20,7 @@ $ npm install
 $ pipenv install
 ```
 
-## Running Enviroments
+## Running Environments
 ```
 # backend
 $ pipenv run python3 manage.py runserver
@@ -29,7 +29,7 @@ $ pipenv run python3 manage.py runserver
 $ npm run serve
 ```
 
-## Improvements
+## Needed Improvements
 
 - Feedbacks of user creation and login
 - Visualization of data
