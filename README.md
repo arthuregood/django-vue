@@ -5,7 +5,9 @@
 http://localhost:8080
 ```
 Create account with email and password.
+
 Login and create products and taxes.
+
 Use calculator to calculate ICMS.
 
 ## Instalation
@@ -32,5 +34,7 @@ $ npm run serve
 ## Improvements
 
 Feedbacks of user creation and login
+
 Visualization of data
+
 Authentication
